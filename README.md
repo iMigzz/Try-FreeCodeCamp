@@ -3,3 +3,4 @@ I’ve always been curious about how software applications work — how they’r
 Through consistent effort, late nights, and small wins, I slowly built my knowledge and confidence. What started as simple curiosity has grown into a solid foundation of skills that I can proudly carry into today’s digital world. And I’m just getting started.
 
 Engr. Miguelito R. Inajada
+2 ![image](https://github.com/user-attachments/assets/63daa9e2-24ba-4c89-8b0c-b2393635370c)
