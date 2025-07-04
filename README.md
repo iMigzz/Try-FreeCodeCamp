@@ -13,3 +13,5 @@ Visual Output Every Exersices:
   c.![image](https://github.com/user-attachments/assets/9a45bd39-22ef-4262-b5e7-176ea99e50d2)
 
 2 ![image](https://github.com/user-attachments/assets/63daa9e2-24ba-4c89-8b0c-b2393635370c)
+
+3. ![image](https://github.com/user-attachments/assets/4c44c048-dca6-4f19-886b-c75829bf6c51)
