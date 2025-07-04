@@ -15,3 +15,7 @@ Visual Output Every Exersices:
 2 ![image](https://github.com/user-attachments/assets/63daa9e2-24ba-4c89-8b0c-b2393635370c)
 
 3. ![image](https://github.com/user-attachments/assets/4c44c048-dca6-4f19-886b-c75829bf6c51)
+
+
+You can pratice with yourself visiting this link: https://www.freecodecamp.org/learn/
+Happy coding day!
