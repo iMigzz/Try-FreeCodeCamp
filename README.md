@@ -20,6 +20,9 @@ Visual Output Every Exersices:
    
    b. ![image](https://github.com/user-attachments/assets/dc93ad43-5d10-4eb7-9ae2-e65b9e27b3d0)
 
+5. <img width="842" height="1079" alt="image" src="https://github.com/user-attachments/assets/d68676c4-1335-445c-b2ce-36d558211be9" />
+
+
 
 
 
