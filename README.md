@@ -22,6 +22,9 @@ Visual Output Every Exersices:
 
 5. <img width="842" height="1079" alt="image" src="https://github.com/user-attachments/assets/d68676c4-1335-445c-b2ce-36d558211be9" />
 
+6. <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f047c7cb-3bc8-451f-97a6-ada037c4fe4b" />
+
+
 
 
 
