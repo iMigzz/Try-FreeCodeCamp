@@ -26,6 +26,12 @@ Visual Output Every Exersices:
 
 7. <img width="1216" height="830" alt="image" src="https://github.com/user-attachments/assets/9aa7fb28-7455-400c-80aa-495af3318014" />
 
+8. a. <img width="1214" height="847" alt="image" src="https://github.com/user-attachments/assets/66af042b-11f1-4787-ace7-d4c8aaca9081" />
+
+   b. <img width="1215" height="847" alt="image" src="https://github.com/user-attachments/assets/d3ef53f4-7c07-475a-8e36-79c964f10805" />
+
+
+
 
 
 You can pratice with yourself visiting this link: https://www.freecodecamp.org/learn/
